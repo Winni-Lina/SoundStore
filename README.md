@@ -21,14 +21,23 @@
 
 ### 요구사항 명세
 #### 1. 기능 요구사항
-> ##### 사운드
+> ##### 사운드 (SOUND)
 > ![요구사항 명세 사운드](./imgs/RequirementsSpecification_Sound.png)
 
-> ##### 유저
+> ##### 유저 (USER)
 > ![요구사항 명세 유저](./imgs/RequirementsSpecification_User.png)
 
-> ##### 금액
+> ##### 금액 (PRICE)
 > ![요구사항 명세 금액](./imgs/RequirementsSpecification_Price.png)
+
+
+#### 2. 비기능 요구사항
+
+> ##### 데이터 (DATA)
+> ![요구사항 명세 데이터](./imgs/RequirementsSpecification_Data.png)
+
+> ##### 시스템 환경 (SYSTEM)
+> ![요구사항 명세 시스템](./imgs/RequirementsSpecification_System.png)
 ---
 
 ## ✨ 주요 기능
