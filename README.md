@@ -14,6 +14,21 @@
 
 ---
 
+## ⚙️ 프로젝트 개발 환경
+
+- Java 17
+- Eclipse
+- Windows 10
+
+---
+
+## 💻 프로젝트 실행 환경
+
+- JDK 17 이상
+- 콘솔 환경 (CLI 기반)
+- 실행 파일: `SoundStoreMain.jar` or `SoundStoreMain.java`
+
+
 ## 🔍 요구사항 졍의서, 명세서
 [요구사항 정의서, 명세서 원본](https://docs.google.com/spreadsheets/d/1eLR46TsCTyzi2-oHuJ4Jh1tjbZ6jeBRgaJTdUylKOZY/edit?usp=sharing)
 
@@ -69,17 +84,10 @@
 
 ---
 
-## ⚙️ 프로젝트 개발 환경
+## 📑 코드 리뷰
 
-- Java 17
-- Eclipse
-- Windows 10
+> ![CodeReview_a](./imgs/CodeReview_a.png)
+> ![CodeReview_b](./imgs/CodeReview_b.png)
+> ![CodeReview_c](./imgs/CodeReview_c.png)
 
----
-
-## 💻 프로젝트 실행 환경
-
-- JDK 17 이상
-- 콘솔 환경 (CLI 기반)
-- 실행 파일: `SoundStoreMain.jar` or `SoundStoreMain.java`
 
