@@ -120,4 +120,8 @@
 > ![CodeReview_c](./imgs/CodeReview_c.png)
 
 ## 시연 영상
-![시연 영상](https://www.youtube.com/watch?v=hyDJbIjmpTA)
+### 사용자 시점 시연
+[시연 영상](https://www.youtube.com/watch?v=NEphpE_5sUg)
+
+### 관리자 시점 시연
+[시연 영상](https://www.youtube.com/watch?v=hyDJbIjmpTA)
