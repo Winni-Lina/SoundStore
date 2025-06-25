@@ -17,18 +17,18 @@
 ## 🔍 요구사항 명세서
 
 ### 요구사항 정의
-![요구사항 정의서](./img/requirements.png)
+![요구사항 정의서](./imgs/RequirementsDefinition.png)
 
 ### 요구사항 명세
 #### 1. 기능 요구사항
 > ##### 사운드
-> ![요구사항 명세 사운드](./img/RequirementsSpecification_Sound.png)
+> ![요구사항 명세 사운드](./imgs/RequirementsSpecification_Sound.png)
 
 > ##### 유저
-> ![요구사항 명세 유저](./img/RequirementsSpecification_User.png)
+> ![요구사항 명세 유저](./imgs/RequirementsSpecification_User.png)
 
 > ##### 금액
-> ![요구사항 명세 금액](./img/RequirementsSpecification_Price.png)
+> ![요구사항 명세 금액](./imgs/RequirementsSpecification_Price.png)
 ---
 
 ## ✨ 주요 기능
