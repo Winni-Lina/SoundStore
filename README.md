@@ -18,7 +18,7 @@
 [요구사항 정의서, 명세서 원본](https://docs.google.com/spreadsheets/d/1eLR46TsCTyzi2-oHuJ4Jh1tjbZ6jeBRgaJTdUylKOZY/edit?usp=sharing)
 
 ### 요구사항 정의
-![요구사항 정의서](./imgs/RequirementsDefinition.png)
+> ![요구사항 정의서](./imgs/RequirementsDefinition.png)
 
 ### 요구사항 명세서
 #### 1. 기능 요구사항
@@ -52,20 +52,20 @@
 
 ## 🎬 작동 시나리오
 
-![작동 시나리오](./imgs/Scenario.png)
+> ![작동 시나리오](./imgs/Scenario.png)
 
 ---
 
 ## 🧭 클래스 다이어그램
 
-### 📁 Sound 패키지  
-![Sound 클래스 다이어그램](./imgs/ClassDiagram_PackageSound.png)
+> ### 📁 Sound 패키지  
+> ![Sound 클래스 다이어그램](./imgs/ClassDiagram_PackageSound.png)
 
-### 📁 User 패키지  
-![User 클래스 다이어그램](./imgs/ClassDiagram_PackageUser.png)
+> ### 📁 User 패키지  
+> ![User 클래스 다이어그램](./imgs/ClassDiagram_PackageUser.png)
 
-### 📁 App 패키지  
-![App 클래스 다이어그램](./imgs/ClassDiagram_PackageApp.png)
+> ### 📁 App 패키지  
+> ![App 클래스 다이어그램](./imgs/ClassDiagram_PackageApp.png)
 
 ---
 
