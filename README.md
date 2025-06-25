@@ -71,6 +71,33 @@
 
 ---
 
+## 🗂️ 프로젝트 구조
+
+<pre>
+📦 src
+ ┣ 📁 app
+ ┃ ┣ 📄 SoundStoreApp.java
+ ┃ ┗ 📄 SoundStoreMain.java
+ ┣ 📁 sound
+ ┃ ┣ 📄 HashMapSoundDAO.java
+ ┃ ┣ 📄 SoundDAO.java
+ ┃ ┣ 📄 SoundService.java
+ ┃ ┣ 📄 SoundVO.java
+ ┃ ┣ 📄 YJSoundService.java
+ ┃ ┗ 📁 file
+ ┃   ┣ 📄 FileSoundDB.java
+ ┃   ┗ 📄 ObjFileHashMapSoundDAO.java
+ ┣ 📁 user
+ ┃ ┣ 📄 HashMapUserDAO.java
+ ┃ ┣ 📄 UserDAO.java
+ ┃ ┣ 📄 UserService.java
+ ┃ ┣ 📄 UserVO.java
+ ┃ ┣ 📄 YJUserService.java
+ ┃ ┗ 📁 file
+ ┃   ┣ 📄 FileUserDB.java
+ ┃   ┗ 📄 ObjFileHashMapUserDAO.java
+</pre>
+
 ## 🧭 클래스 다이어그램
 
 > ### 📁 Sound 패키지  
