@@ -52,7 +52,7 @@
 
 ## 🎬 작동 시나리오
 
-![작동 시나리오](./img/scenario.png)
+![작동 시나리오](./imgs/Scenario.png)
 
 ---
 
