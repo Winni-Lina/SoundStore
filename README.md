@@ -19,7 +19,7 @@
 ### 요구사항 정의
 ![요구사항 정의서](./imgs/RequirementsDefinition.png)
 
-### 요구사항 명세
+### 요구사항 명세서 ([요구사항 명세서](https://docs.google.com/spreadsheets/d/1eLR46TsCTyzi2-oHuJ4Jh1tjbZ6jeBRgaJTdUylKOZY/edit?usp=sharing))
 #### 1. 기능 요구사항
 > ##### 사운드 (SOUND)
 > ![요구사항 명세 사운드](./imgs/RequirementsSpecification_Sound.png)
