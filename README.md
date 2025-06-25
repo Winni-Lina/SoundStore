@@ -15,7 +15,7 @@
 ---
 
 ## 🔍 요구사항 졍의서, 명세서
-![요구사항 정의서, 명세서 원본](https://docs.google.com/spreadsheets/d/1eLR46TsCTyzi2-oHuJ4Jh1tjbZ6jeBRgaJTdUylKOZY/edit?usp=sharing)
+[요구사항 정의서, 명세서 원본](https://docs.google.com/spreadsheets/d/1eLR46TsCTyzi2-oHuJ4Jh1tjbZ6jeBRgaJTdUylKOZY/edit?usp=sharing)
 
 ### 요구사항 정의
 ![요구사항 정의서](./imgs/RequirementsDefinition.png)
