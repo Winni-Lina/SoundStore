@@ -59,13 +59,13 @@
 ## 🧭 클래스 다이어그램
 
 ### 📁 Sound 패키지  
-![sound 클래스 다이어그램](./imgs/ClassDiagram_Sound.png
+![Sound 클래스 다이어그램](./imgs/ClassDiagram_Sound.png)
 
 ### 📁 User 패키지  
-![user 클래스 다이어그램](./imgs/ClassDiagram_User.png
+![User 클래스 다이어그램](./imgs/ClassDiagram_User.png)
 
 ### 📁 App 패키지  
-![app 클래스 다이어그램](./imgs/ClassDiagram_App.png
+![App 클래스 다이어그램](./imgs/ClassDiagram_App.png)
 
 ---
 
