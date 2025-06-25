@@ -72,9 +72,8 @@
 ## ⚙️ 프로젝트 개발 환경
 
 - Java 17
-- IntelliJ IDEA / Eclipse
+- Eclipse
 - Windows 10
-- Git / GitHub
 
 ---
 
@@ -82,5 +81,5 @@
 
 - JDK 17 이상
 - 콘솔 환경 (CLI 기반)
-- 실행 파일: `SoundStoreMain.jar`
+- 실행 파일: `SoundStoreMain.jar` or `SoundStoreMain.java`
 
