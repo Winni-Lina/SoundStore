@@ -100,13 +100,13 @@
 
 ## 🧭 클래스 다이어그램
 
-> ### 📁 Sound 패키지  
+> ### 📁 sound 패키지  
 > ![Sound 클래스 다이어그램](./imgs/ClassDiagram_PackageSound.png)
 
-> ### 📁 User 패키지  
+> ### 📁 user 패키지  
 > ![User 클래스 다이어그램](./imgs/ClassDiagram_PackageUser.png)
 
-> ### 📁 App 패키지  
+> ### 📁 app 패키지  
 > ![App 클래스 다이어그램](./imgs/ClassDiagram_PackageApp.png)
 
 ---
